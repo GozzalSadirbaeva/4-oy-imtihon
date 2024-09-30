@@ -1,0 +1,1 @@
+const cutWovel = "This is";
